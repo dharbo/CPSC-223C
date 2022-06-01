@@ -1,0 +1,13 @@
+Golden State Emporium
+We do our best to serve our customers
+
+Today's purchases:
+
+   Item               Quantity      Cost
+Eggs,1 dozen,$3.29
+Pizza,3 toppings,14'' diameter,$10.99
+Notebook,3-ring, 200 sheet capacity,$2.49
+
+Amount paid: $ 16.77
+
+Thank you for shopping at GSE.
